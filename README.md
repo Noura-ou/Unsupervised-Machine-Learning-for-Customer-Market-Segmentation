@@ -4,7 +4,7 @@ Import libraries and datasets
 
 Visualize and explore datasets  
 
-Understand the theory and intuition behind k-means clustering machine learning algorithm 
+the theory and intuition behind k-means clustering machine learning algorithm 
 
 Learn how to obtain the optimal number of clusters using the elbow method  
 
